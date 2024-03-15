@@ -1,5 +1,5 @@
 # Snake-Game
-In our childhood, nearly all of us enjoyed playing classic snake games
+In our childhood, nearly all of us enjoyed playing classic snake games.
 The Ideas from Java Swing are used to create this application. The application should comprise the following functionalities:
 
 1. The Snake will have the ability to move in all four directions.
